@@ -87,4 +87,4 @@ window.gameFunctions.pingOverride = function(){
 		}
 	});
 
-}
+} 
