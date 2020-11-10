@@ -2,7 +2,7 @@
 
 # Welcome to SurvivPremium! 😃
 
-This is a Surviv.io cheat loaded as a Chrome extension. It was originally developed by [reuke](https://github.com/reuke), transferred to [Kalaborative](https://github.com/Kalaborative) then [Kalaborative] quit the game. So I (Elspex) have decided to take ownership of the development of the code. 
+This is a Surviv.io cheat loaded as a Chrome extension. It was originally developed by [reuke](https://github.com/reuke), transferred to [Kalaborative](https://github.com/Kalaborative) then Kalaborative quit the game. So I (Elspex) have decided to take ownership of the development of the code. 
 
 If you like this project, and want it to last, please consider supporting. 
 
