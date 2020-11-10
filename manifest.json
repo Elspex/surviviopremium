@@ -26,12 +26,12 @@
   			"*://*.piearesquared.info/",
   			"*://*.thecircleisclosing.com/",
 			"*://*.parmainitiative.com/",
-  			"*://*.twitch.tv/popout/prismatichub/extensions/c79geyxwmp1zpas3qxbddzrtytffta/panel",
-			"*://*.https://c79geyxwmp1zpas3qxbddzrtytffta.ext-twitch.tv/c79geyxwmp1zpas3qxbddzrtytffta/1.0.2/ce940530af57d2615ac39c266fe9679d/index_twitch.html?anchor=panel&language=en&mode=viewer&state=released&platform=web&popout=true/"
+  			"*://*.twitch.tv/popout/prismatichub/extensions/c79geyxwmp1zpas3qxbddzrtytffta/panel"
+		
   		]
 	},
 	"browser_action": {
-		"default_title": "Survivio+",
+		"default_title": "SurvivPremium",
 		"default_icon": "128.png"
 	},
 	"icons": {
@@ -69,8 +69,8 @@
   			"*://piearesquared.info/",
   			"*://thecircleisclosing.com/",
 			"*://*.parmainitiative.com/",
-  			"*://*.twitch.tv/popout/prismatichub/extensions/c79geyxwmp1zpas3qxbddzrtytffta/panel",
-			"*://*.https://c79geyxwmp1zpas3qxbddzrtytffta.ext-twitch.tv/c79geyxwmp1zpas3qxbddzrtytffta/1.0.2/ce940530af57d2615ac39c266fe9679d/index_twitch.html?anchor=panel&language=en&mode=viewer&state=released&platform=web&popout=true/"
+  			"*://*.twitch.tv/popout/prismatichub/extensions/c79geyxwmp1zpas3qxbddzrtytffta/panel"
+			
 		],
 		"js": ["start.js"],
 		"css": [
