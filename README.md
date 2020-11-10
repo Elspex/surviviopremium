@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/D7k4Jum.jpg "Survivio Banner")
+![alt text](https://repository-images.githubusercontent.com/189518166/cc780580-839e-11e9-924b-4092bf4ed174)
 
 # Welcome to SurvivPremium! 😃
 
