@@ -1,12 +1,10 @@
 ![alt text](https://i.imgur.com/D7k4Jum.jpg "Survivio Banner")
 
-# Welcome to Surviv+! 😃
+# Welcome to SurvivPremium! 😃
 
-This is a Surviv.io cheat loaded as a Chrome extension. It was originally developed by [reuke](https://github.com/reuke), transferred to [Kalaborative](https://github.com/Kalaborative) but since both have been away, I (iBLiSSIN) have decided to take ownership of the development of the code. The hack is on Youtube, check it out [here](https://www.youtube.com/channel/UCLff8YzqQ-vIAFTKPTDz3RA/featured?view_as=subscriber).
+This is a Surviv.io cheat loaded as a Chrome extension. It was originally developed by [reuke](https://github.com/reuke), transferred to [Kalaborative](https://github.com/Kalaborative) then [Kalaborative] quit the game. So I (Elspex) have decided to take ownership of the development of the code. 
 
 If you like this project, and want it to last, please consider supporting. 
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=WZCYV95AA85S4&item_name=Please+help+the+hacks+%3A%29&currency_code=CAD&source=url)
 
 ### 💪 Features
 
@@ -31,19 +29,9 @@ If you like this project, and want it to last, please consider supporting.
 
 ## 🤔 FAQ
 
-> **'Unauthorized extension use detected', how to fix?**
-
-Fix: https://www.youtube.com/watch?v=pEEa6b3oXjA
-
-> **Hack Doesn't Work?**
-
-Official Download / Update Guide: https://www.youtube.com/watch?v=xRoCoMei3Nc
-
-The hack was updated and therefore you need to update. Go to chrome://extensions/ and click remove on the Survivio+ extension. Download the new version and load that one as the hack. 
-
 > **What do I do if the cheat stops working?**
 
-Message silentes#4242 on Discord if the game is updated. Wait until a new commit is pushed.
+Message [FRST] Elspex#0001 on Discord if the game is updated. Wait until a new commit is pushed.
 
 > **This feature isn't working for me!**
 
