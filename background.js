@@ -5,7 +5,7 @@ var generateVaribaleName = function() {
 var variableNames = {
 	game: generateVaribaleName(),
 	exports: generateVaribaleName(),
-	interactionEmitter: generateVaribaleName(),
+	interactionEmitter: generateVaribaleName(), 
 	emitActionCb: generateVaribaleName(),
 	smokeAlpha: generateVaribaleName()
 }
