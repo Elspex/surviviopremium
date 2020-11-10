@@ -63,7 +63,7 @@ runScript('payload/gameOverride.js');
 runScript('payload/gameUpdate.js');
 runScript('payload/gameRender.js');
 runScript('payload/pingOverride.js');
-
+// Closing Functions
 window.addEventListener("load", function load(event){
     window.removeEventListener("load", load, false); 
 	
