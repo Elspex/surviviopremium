@@ -1,3 +1,4 @@
+# Hacks are temporaraly down. Try out the twitch server hack while you wait for it to be fixed! https://github.com/Elspex/SurvivTwitchMod
 ![alt text](https://repository-images.githubusercontent.com/189518166/cc780580-839e-11e9-924b-4092bf4ed174)
 
 # Welcome to SurvivPremium! 😃
